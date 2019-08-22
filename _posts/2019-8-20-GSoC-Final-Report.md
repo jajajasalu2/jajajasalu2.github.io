@@ -26,11 +26,11 @@ During these three months, I have:
 - Implemented a crawler to extract patches from Debian Packages.
 - Implemented a crawler to extract patches from a given GitHub repository.
 
-Here's a link to the [patch-finder's Github Repository](https://github.com/jajajasalu2/patch-finder) which I have used for GSoC.
+Here's a link to the [patch-finder's Github Repository](https://github.com/PatchPorting/patch-finder) which I have used for GSoC.
 
 ## TODO:
 
-There is a lot more stuff to be done, from solving small bugs to implementing major features. Some of these issues are on the project's GitHub issue tracker [here](https://github.com/jajajasalu2/patch-finder/issues). Following is a summary of these issues and a few more ideas:
+There is a lot more stuff to be done, from solving small bugs to implementing major features. Some of these issues are on the project's GitHub issue tracker [here](https://github.com/PatchPorting/patch-finder/issues). Following is a summary of these issues and a few more ideas:
 
 - A way to uniquely identify patches. This is so that the same patches are not scraped and collected.
 - A Database, and a corresponding database API.
