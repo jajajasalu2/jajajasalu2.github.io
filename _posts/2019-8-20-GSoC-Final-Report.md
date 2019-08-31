@@ -43,6 +43,23 @@ There is a lot more stuff to be done, from solving small bugs to implementing ma
 - A more efficient testing framework.
 - More crawlers/parsers.
 
+## Weekly Reports:
+
+Following is a list of weekly reports I sent to the Debian Outreach mailing list during GSoC:
+
+- [Week 1](https://lists.debian.org/debian-outreach/2019/06/msg00001.html)
+- [Week 2](https://lists.debian.org/debian-outreach/2019/06/msg00008.html)
+- [Week 3](https://lists.debian.org/debian-outreach/2019/06/msg00011.html)
+- [Week 4](https://lists.debian.org/debian-outreach/2019/06/msg00017.html)
+- [Week 5](https://lists.debian.org/debian-outreach/2019/07/msg00000.html)
+- [Week 6](https://lists.debian.org/debian-outreach/2019/07/msg00005.html)
+- [Week 7](https://lists.debian.org/debian-outreach/2019/07/msg00008.html)
+- [Week 8](https://lists.debian.org/debian-outreach/2019/07/msg00016.html)
+- [Week 9](https://lists.debian.org/debian-outreach/2019/07/msg00024.html)
+- [Week 10](https://lists.debian.org/debian-outreach/2019/08/msg00003.html)
+- [Week 11](https://lists.debian.org/debian-outreach/2019/08/msg00010.html)
+- [Week 12](https://lists.debian.org/debian-outreach/2019/08/msg00014.html)
+
 ## Personal Notes:
 
 Google Summer of Code has been a super comfortable and fun experience for me. I've learnt tonnes about Python, Open Source and Software Development. My mentors [Luciano Bello](https://github.com/1ucian0) and [László Böszörményi](https://github.com/gcsideal) have been immensely helpful and have guided me through these three months.
